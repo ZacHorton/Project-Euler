@@ -13,7 +13,7 @@
 | 5               | [Smallest multiple](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p005.py)          | Tue, 26 Oct 2021 |
 | 6               | [Sum square difference](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p006.py)      | Wed, 27 Oct 2021 |
 | 7               | [10001st prime](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p007.py)              | Wed, 27 Oct 2021 |
-| 8               | Largest product in a series                                                                     |                  |
+| 8               | [Largest product in a series](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p008.py)| Wed, 27 Oct 2021 |
 | 9               | Special Pythagorean triplet                                                                     |                  |
 | 10              | Summation of primes                                                                             |                  |
 | 11              | Largest product in a grid                                                                       |                  |
