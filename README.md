@@ -11,8 +11,8 @@
 | 3               | [Largest prime factor](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p003.py)       | Mon, 25 Oct 2021 |
 | 4               | [Largest palindrome product](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p004.py) | Tue, 26 Oct 2021 |
 | 5               | [Smallest multiple](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p005.py)          | Tue, 26 Oct 2021 |
-| 6               | Sum square difference                                                                           |                  |
-| 7               | 10001st prime                                                                                   |                  |
+| 6               | [Sum square difference](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p006.py)      | Wed, 27 Oct 2021 |
+| 7               | [10001st prime](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p007.py)              | Wed, 27 Oct 2021 |
 | 8               | Largest product in a series                                                                     |                  |
 | 9               | Special Pythagorean triplet                                                                     |                  |
 | 10              | Summation of primes                                                                             |                  |
