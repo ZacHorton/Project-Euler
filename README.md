@@ -4,12 +4,12 @@
 >  . . . the rule about sharing solutions outside of Project Euler does not apply to the first one-hundred problems, as long as any discussion clearly aims to instruct methods, not just provide answers, and does not directly threaten to undermine the enjoyment of solving later problems. Problems 1 to 100 provide a wealth of helpful introductory teaching material and if you are able to respect our requirements, then we give permission for those problems and their solutions to be discussed elsewhere.
 
 # Problems Archives
-| ID              | Description / Title                                                                             | Completed On     |
-| :-------------- | :---------------------------------------------------------------------------------------------: | ---------------: |
-| 1               | [Multiples of 3 or 5](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p001.py)    | Fri, 22 Oct 2021 |
-| 2               | [Even Fibonacci numbers](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p002.py) | Fri, 22 Oct 2021 |
-| 3               | [Largest prime factor ](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p003.py)  | Mon, 25 Oct 2021 |
-| 4               | Largest palindrome product                                                                      |                  |
+| ID              | Description / Title                                                                                 | Completed On     |
+| :-------------- | :-------------------------------------------------------------------------------------------------: | ---------------: |
+| 1               | [Multiples of 3 or 5](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p001.py)        | Thu, 21 Oct 2021 |
+| 2               | [Even Fibonacci numbers](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p002.py)     | Fri, 22 Oct 2021 |
+| 3               | [Largest prime factor](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p003.py)       | Mon, 25 Oct 2021 |
+| 4               | [Largest palindrome product](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p004.py) | Tue, 26 Oct 2021 |
 | 5               | Smallest multiple                                                                               |                  |
 | 6               | Sum square difference                                                                           |                  |
 | 7               | 10001st prime                                                                                   |                  |

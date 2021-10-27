@@ -23,7 +23,7 @@ def is_palindrome(n):
         elif number[0] != number[5] or number[1] != number[4] or number[2] != number[3]:
             return False
     else:
-        return "unknown"
+        return None
 
 
 def largest_palindrome_using_product_of_two_2_digit_numbers():
