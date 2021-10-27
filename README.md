@@ -10,7 +10,7 @@
 | 2               | [Even Fibonacci numbers](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p002.py)     | Fri, 22 Oct 2021 |
 | 3               | [Largest prime factor](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p003.py)       | Mon, 25 Oct 2021 |
 | 4               | [Largest palindrome product](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p004.py) | Tue, 26 Oct 2021 |
-| 5               | Smallest multiple                                                                               |                  |
+| 5               | [Smallest multiple](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p005.py)          | Tue, 26 Oct 2021 |
 | 6               | Sum square difference                                                                           |                  |
 | 7               | 10001st prime                                                                                   |                  |
 | 8               | Largest product in a series                                                                     |                  |
