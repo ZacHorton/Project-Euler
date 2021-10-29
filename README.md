@@ -4,18 +4,18 @@
 >  . . . the rule about sharing solutions outside of Project Euler does not apply to the first one-hundred problems, as long as any discussion clearly aims to instruct methods, not just provide answers, and does not directly threaten to undermine the enjoyment of solving later problems. Problems 1 to 100 provide a wealth of helpful introductory teaching material and if you are able to respect our requirements, then we give permission for those problems and their solutions to be discussed elsewhere.
 
 # Problems Archives
-| ID              | Description / Title                                                                                 | Completed On     |
-| :-------------- | :-------------------------------------------------------------------------------------------------: | ---------------: |
-| 1               | [Multiples of 3 or 5](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p001.py)        | Thu, 21 Oct 2021 |
-| 2               | [Even Fibonacci numbers](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p002.py)     | Fri, 22 Oct 2021 |
-| 3               | [Largest prime factor](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p003.py)       | Mon, 25 Oct 2021 |
-| 4               | [Largest palindrome product](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p004.py) | Tue, 26 Oct 2021 |
-| 5               | [Smallest multiple](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p005.py)          | Tue, 26 Oct 2021 |
-| 6               | [Sum square difference](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p006.py)      | Wed, 27 Oct 2021 |
-| 7               | [10001st prime](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p007.py)              | Wed, 27 Oct 2021 |
-| 8               | [Largest product in a series](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p008.py)| Wed, 27 Oct 2021 |
-| 9               | Special Pythagorean triplet                                                                     |                  |
-| 10              | Summation of primes                                                                             |                  |
+| ID              | Description / Title                                                                                  | Completed On     |
+| :-------------- | :--------------------------------------------------------------------------------------------------: | ---------------: |
+| 1               | [Multiples of 3 or 5](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p001.py)         | Thu, 21 Oct 2021 |
+| 2               | [Even Fibonacci numbers](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p002.py)      | Fri, 22 Oct 2021 |
+| 3               | [Largest prime factor](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p003.py)        | Mon, 25 Oct 2021 |
+| 4               | [Largest palindrome product](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p004.py)  | Tue, 26 Oct 2021 |
+| 5               | [Smallest multiple](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p005.py)           | Tue, 26 Oct 2021 |
+| 6               | [Sum square difference](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p006.py)       | Wed, 27 Oct 2021 |
+| 7               | [10001st prime](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p007.py)               | Wed, 27 Oct 2021 |
+| 8               | [Largest product in a series](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p008.py) | Wed, 27 Oct 2021 |
+| 9               | [Special Pythagorean triplet](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p009.py) | Thu, 28 Oct 2021 |
+| 10              | [Summation of primes](https://github.com/ZacHorton/Project-Euler/blob/master/Python/p010.py)         | Thu, 28 Oct 2021 |
 | 11              | Largest product in a grid                                                                       |                  |
 | 12              | Highly divisible triangular number                                                              |                  |
 | 13              | Large sum                                                                                       |                  |
